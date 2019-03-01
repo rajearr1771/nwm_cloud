@@ -1,3 +1,4 @@
 https://001613358280.signin.aws.amazon.com/console
 https://github.com/open-guides/og-aws
 https://www.whizlabs.com/blog/aws-vs-azure-vs-google/#
+https://status.aws.amazon.com/
